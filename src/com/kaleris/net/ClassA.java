@@ -10,8 +10,8 @@ public class ClassA {
 		System.out.println("this is new commit 2 for main branch");
  
 		System.out.println("Dhanushka this 1st commit for feature 1");
-<<<<<<< HEAD
  
+<<<<<<< HEAD
 <<<<<<< HEAD
 		System.out.println("Dhanushka this 2nd commit for feature 2");
  
@@ -22,6 +22,11 @@ public class ClassA {
 
 >>>>>>> 5ada899 (this is the second commit for freature branch)
 >>>>>>> 044b1f6 (this is the second commit for freature branch)
+=======
+		System.out.println("Dhanushka this 2nd commit for feature 2");
+
+ 
+>>>>>>> 1de0929 (this is the second commit for freature branch)
 	}
 
 }
